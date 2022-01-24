@@ -6,3 +6,5 @@ I'm Akash, a B.Tech CSE student at [D Y Patil International University](https://
 
 #### Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsaky&title_color=f44336&theme=dark&langs_count=3&hide=javascript,html,roff,assembly,objective-c,xsslt)
+
+![](https://komarev.com/ghpvc/?username=itsaky&color=2196f3)
