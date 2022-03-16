@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Akash, a B.Tech CSE student at [D Y Patil International University](https://dypiu.ac.in).
+I'm Akash.
 
 #### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=itsaky&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)
