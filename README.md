@@ -35,7 +35,7 @@ Operating Systems, Compilers, Virtual Machines, Memory Management, File Systems
 
 ## 📫 Let's Connect!
 
-Need my skills on a project, or maybe discuss something important? Feel free to reach out. 
+Looking to collaborate on a project or need a skilled developer on your team? I’m open to new opportunities—feel free to reach out!
 
 🌐 Website: [itsaky.com](https://itsaky.com)  
 💼 LinkedIn: [@itsaky](https://linkedin.com/in/itsaky)  
